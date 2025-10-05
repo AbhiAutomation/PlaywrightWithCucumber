@@ -18,3 +18,4 @@ let person : {  name: string,age: number} = {  name: "John", age: 30};
 let employe :{name:string,age:number,jobTitle:string}={name:"John",age:30,jobTitle:"Manager"};;
 
 //class
+
